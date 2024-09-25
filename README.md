@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @milenafi
+- 👋 Hi, I’m @milenacorn
 - 👀 I’m interested in collaborating with my dev team and learning from this community
 - 🌱 I’m currently working in Python, Regex and the Azure ecosystem
 - 💞️ I’m looking to collaborate on text file processing, prepping and tagging data for ML models
